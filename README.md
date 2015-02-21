@@ -1,5 +1,4 @@
-# Mautic Documentation
-
+# คู่มือการใช้งาน Mautic
 ### Introduction
-This book serves as the documentation for the Mautic open source marketing automation system. Just as the code is open source and available for everyone, so is the documentation. Everyone is welcome to help make this information better and improve as needed.
+หนังสือนี้เป็นคู่มือการใช้งานสำหรับ Mautic open source marketing automation system. ด้วย Code ได้เป็นโอเพนซอร์สสำหรับทุกคน ดังนั้นคู่มือฉบับนี้ทุกคนสามารถมีส่วนร่วมในการช่วยทำให้คู่มือนี้สมบูรณ์และดียิ่งขึ้นตามต้องการ 
 
